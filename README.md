@@ -1,2 +1,3 @@
-# repotest
-Test Repo -- 10/2/25
+# My First Repository
+
+This is my first repository on GitHub!
